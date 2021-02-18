@@ -1,0 +1,91 @@
+ google.com, pub-5908399841745966, DIRECT, f08c47fec0942fa0
+ google.com, pub-4529402052683454, DIRECT, f08c47fec0942fa0
+ 
+ #HeaderLift#
+advertising.com, 27287, RESELLER
+appnexus.com, 9994, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0
+google.com, pub-3374111250836391, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1299, RESELLER
+improvedigital.com, 545, RESELLER
+indexexchange.com, 188249, RESELLER
+openx.com, 539366975, RESELLER, 6a698e2ec38604c6
+openx.com, 540471883, RESELLER, 6a698e2ec38604c6
+openx.com, 540880512, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156946, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158452, RESELLER, 5d62403b186f2ace
+yieldlab.net, 8295031, RESELLER
+yieldlab.net, 6374282, RESELLER
+yieldlab.net, 5798882, RESELLER
+
+#SmartAdServer#
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+#HeaderLift v1 - 22/07/2020
+advertising.com, 27287, RESELLER
+appnexus.com, 9994, RESELLER
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2468262778002506, RESELLER, f08c47fec0942fa0
+google.com, pub-3374111250836391, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1299, RESELLER
+improvedigital.com, 545, RESELLER
+indexexchange.com, 188249, RESELLER
+openx.com, 539366975, RESELLER, 6a698e2ec38604c6
+openx.com, 540471883, RESELLER, 6a698e2ec38604c6
+openx.com, 540880512, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156946, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158452, RESELLER, 5d62403b186f2ace
+yieldlab.net, 8295031, RESELLER
+yieldlab.net, 6374282, RESELLER
+yieldlab.net, 5798882, RESELLER
+triplelift.com, 9268, RESELLER, 6c33edb13117fd86
+
+#SmartAdServer
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubnative.net, 1006576, RESELLER, d641df8625486a7b
+rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
+smartadserver.com, 3653, RESELLER
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+
+#33Across 
+33across.com,0010b00002YRwzPAAT, RESELLER,bbea06d9c4d2853c
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+adtech.com, 12094, RESELLER
+aol.com, 47594, RESELLER, e1a5b5b6e3255540
+indexexchange.com, 183635, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 540995201, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98
+
+#E-Planning
+e-planning.net,24e44d4126ff4212,RESELLER,c1ba615865ed87b2
+improvedigital.com,1556,RESELLER
+rhythmone.com,1767353092,RESELLER,a670c89d4a324e47
+sovrn.com,268876,DIRECT,fafdf38b16bf6b2b
+lijit.com,268876,DIRECT,fafdf38b16bf6b2b
+indexexchange.com,190243,DIRECT
+axonix.com,56222,RESELLER
+openx.com,541031350,RESELLER,6a698e2ec38604c6
+conversantmedia.com,100066,DIRECT,03113cd04947736d
+33across.com,0010b00002SlIKjAAN,DIRECT,bbea06d9c4d2853c
+rubiconproject.com,12186,RESELLER,0bfd66d529a55807
+pubmatic.com,156631,RESELLER,5d62403b186f2ace
+Contextweb.com,560941,DIRECT,89ff185a4c4e857c
